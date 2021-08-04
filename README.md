@@ -9,13 +9,13 @@
 ![test3gif](https://user-images.githubusercontent.com/77254935/128231428-d08aec87-a04f-48cd-8124-26a56412f11f.gif)
 
 
-![test2](https://user-images.githubusercontent.com/77254935/128230869-8da446d8-1c6b-42f9-859f-3d51b49eaa73.gif)
+![test2](https://user-images.githubusercontent.com/77254935/128230869-8da446d8-1c6b-42f9-859f-3d51b49eaa73.gif)[Check out the paper!](https://github.com/sDong517/SeasonsVR/blob/main/paper/seasons-report.pdf)
 
 
 
 ![Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=sDong517&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sDong517&layout=compact)](https://github.com/sDong517/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sDong517&layout=compact)]
 
 
 <!--
