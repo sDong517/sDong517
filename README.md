@@ -12,11 +12,11 @@
 ![test2](https://user-images.githubusercontent.com/77254935/128230869-8da446d8-1c6b-42f9-859f-3d51b49eaa73.gif)[Check out the paper!](https://github.com/sDong517/SeasonsVR/blob/main/paper/seasons-report.pdf)
 
 
-
+<!--
 ![Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=sDong517&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sDong517&layout=compact)
-
+-->
 
 <!--
 **sDong517/sDong517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
